@@ -1,0 +1,15 @@
+Algoritmne faireDivision
+
+Variables:
+firstNumber:integer
+secondNumber:integer
+resultCalc:integer
+
+Instuction
+resultCalc<- firstNumber/secondNumber
+if Result%4=0 then
+	Write("oui")
+else
+	Write("no")
+Endif
+

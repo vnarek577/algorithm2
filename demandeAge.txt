@@ -1,0 +1,17 @@
+Algorithme demandeAge
+
+Variables:
+age:string
+gendre:integer
+
+Instruction:
+Write ("Quel est votre âge")
+Read (age)
+Write ("Quel est votre genre")
+Read(gendre)
+if age>=18 and gender "femme"
+	Write("Vous êtes majeure et vous êtes une femme")
+if age>=18 and gender "homme"
+	Write("Vous êtes majeure et vous êtes un "homme")
+
+Endif
